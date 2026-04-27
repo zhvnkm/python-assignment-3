@@ -1,0 +1,25 @@
+{
+    "analysis": "Country Analysis",
+    "total_students": 5,
+    "total_countries": 4,
+    "top_3": [
+        {
+            "country": "Australia",
+            "count": 2
+        },
+        {
+            "country": "Germany",
+            "count": 1
+        },
+        {
+            "country": "USA",
+            "count": 1
+        }
+    ],
+    "all_countries": {
+        "Germany": 1,
+        "USA": 1,
+        "Canada": 1,
+        "Australia": 2
+    }
+}
